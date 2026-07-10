@@ -966,7 +966,7 @@ export default function App() {
 
       {/* FOOTER */}
       <footer className="border-t border-slate-900 bg-slate-950/60 py-10 text-center text-xs text-slate-500">
-        <p className="mb-2">IntelScope &copy; 2026. Made with Google AI Studio.</p>
+        <p className="mb-2">IntelScope &copy; 2026.</p>
         <p className="font-mono text-[10px] text-slate-600 uppercase tracking-wider">
           Security Auditing Utility for Cyber Defense Awareness & Education.
         </p>
